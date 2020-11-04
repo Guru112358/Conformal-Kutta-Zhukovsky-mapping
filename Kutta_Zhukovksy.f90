@@ -76,5 +76,6 @@ deallocate(ksi,eta,theta,x,y)
  close(1)
  close(2)
  close(3)
+ close(4)
 
 end program Kutta_Zhukovsky
